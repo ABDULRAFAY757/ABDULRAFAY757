@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ABDULRAFAY757
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Engineering
+- 👀 I’m a Data Scientist
+- 🌱 I’m currently learning ML-Ops
 - 💞️ I’m looking to collaborate on New Tecnologies
 - 📫 How to reach me FA20-BCS-055@cuiwah.edu.pk
 
